@@ -10,7 +10,7 @@ Quantum state tomography (QST) is the bottleneck for characterizing intermediate
 
 By utilizing a Gaussian-weighted adjoint projection, GSI triangulates state geometry in a single non-iterative pass. We identify an **Information Threshold** at measurement ratio $M/P \approx 1.17$, above which GSI enables robust, high-fidelity reconstruction ($F > 0.99$) independent of bandwidth tuning.
 
-**Paper:** [Read the full paper (PDF)](./GSI-paper.pdf)
+**Paper:** Moralez, M. (2025). Geometric Shadow Inversion: Real-Time Quantum State Tomography at the Information Threshold (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17716380
 
 ## Features
 
