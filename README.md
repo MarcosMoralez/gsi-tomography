@@ -14,7 +14,7 @@ By utilizing a Gaussian-weighted adjoint projection, GSI triangulates state geom
 
 ## Features
 
-- **Fast:** Reconstructs 5-qubit states in $\approx 10$ms and 6-qubit states in $\approx 5$min (CPU).
+- **Fast:** Reconstructs 5-qubit states in $\approx 10$ ms and 6-qubit states in $\approx 5$ min (CPU).
     
 - **Robust:** Operates in the under-determined regime ($M/P < 1$) where linear inversion fails.
     
