@@ -10,6 +10,8 @@ Quantum state tomography (QST) is the bottleneck for characterizing intermediate
 
 By utilizing a Gaussian-weighted adjoint projection, GSI triangulates state geometry in a single non-iterative pass. We identify an **Information Threshold** at measurement ratio $M/P \approx 1.17$, above which GSI enables robust, high-fidelity reconstruction ($F > 0.99$) independent of bandwidth tuning.
 
+**Paper:** [Read the full paper (PDF)](./GSI-paper.pdf)
+
 ## Features
 
 - **Fast:** Reconstructs 5-qubit states in $\approx 10$ms and 6-qubit states in $\approx 5$min (CPU).
