@@ -12,6 +12,8 @@ By utilizing a Gaussian-weighted adjoint projection, GSI triangulates state geom
 
 **Paper:** Moralez, M. (2025). Geometric Shadow Inversion: Real-Time Quantum State Tomography at the Information Threshold (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17716380
 
+**Interactive visualization** https://gsi-research-visualization-850185611796.us-west1.run.app/
+
 ## Features
 
 - **Fast:** Reconstructs 5-qubit states in $\approx 10$ ms and 6-qubit states in $\approx 5$ min (CPU).
